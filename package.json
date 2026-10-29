@@ -1,0 +1,32 @@
+{
+  "name": "water-three-js",
+  "version": "1.0.0",
+  "description": "A fully procedural, real-time ocean and interactive sandcastle beach built with Three.js — Gerstner waves, screen-space reflections, volumetric clouds, caustics, and a moisture-driven sand simulation. No textures, no assets.",
+  "type": "module",
+  "author": "skywalkerqqq",
+  "license": "MIT",
+  "keywords": [
+    "threejs",
+    "webgl",
+    "ocean",
+    "water",
+    "shader",
+    "gerstner",
+    "procedural",
+    "sandcastle",
+    "beach",
+    "simulation"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lil-gui": "^0.20.0",
+    "three": "^0.185.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
